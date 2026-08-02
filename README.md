@@ -1,2 +1,4 @@
-# java-sorting-visualizer-21
+# Java Sorting Visualizer 21
+
 Sorting lists algorithm in Java.
+
